@@ -1,12 +1,12 @@
 [
     {
-        "name": "台灣黑熊",
-        "features": "胸前有V型白色斑紋，體型壯碩",
-        "photo": "https://i.imgur.com/abc123.jpg"
+        "name": "Anthelephila imperatrix 斑齒蟻形甲",
+        "features": "頭黑背啡翅黑 (翅1-2對白斑)",
+        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/77360957/medium.jpeg"
     },
     {
-        "name": "藍腹鷴",
-        "features": "雄鳥有金屬藍色羽毛，尾羽長",
-        "photo": "https://i.imgur.com/xyz456.jpg"
+        "name": "Anthelephila klapperichi 二色齒蟻形甲",
+        "features": "頭啡背啡翅雙色 (翅基啡端黑，中淺啡)",
+        "photo": "https://static.inaturalist.org/photos/168232406/medium.jpg"
     }
 ]
